@@ -40,7 +40,7 @@ export default function NewTask(props) {
   };
   return (
     <div className={style.container} >
-      {/* <div className={style.exit} onClick={()=>{navigate('/')}}>X</div> */}
+      <div className={style.exit} onClick={()=>{navigate('/')}}>X</div>
       <div className={style.main}>
         <h1>New Task</h1>
         Title: <input type="text" name="title" onChange={onChangeHandler} />
