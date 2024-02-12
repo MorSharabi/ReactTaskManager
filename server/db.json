@@ -1,35 +1,43 @@
 {
   "tasks": [
     {
+      "id": 1,
+      "title": "Complete Project Proposal",
+      "subtitle": "Due: August 20th",
+      "description": "Write and finalize the project proposal for the upcoming client presentation.",
+      "image": "project_proposal.jpg",
+      "isDone": false
+    },
+    {
       "id": 2,
       "title": "Meeting with Team",
-      "subTitle": "Scheduled: August 18th, 2:00 PM",
+      "subtitle": "Scheduled: August 18th, 2:00 PM",
       "description": "Conduct a meeting with the project team to discuss the current status and upcoming tasks.",
-      "image": "https://www.strety.com/hubfs/images/blog/run-an-effective-team-meeting.png",
-      "isDone": false
+      "image": "meeting.jpg",
+      "isDone": true
     },
     {
       "id": 3,
       "title": "Research Market Trends",
-      "subTitle": "Ongoing",
+      "subtitle": "Ongoing",
       "description": "Conduct research on the latest market trends and competitor activities in the industry.",
-      "image": "https://www.suntecdata.com/blog/wp-content/uploads/2020/03/market-research-trends.jpg",
-      "isDone": true
+      "image": "research.jpg",
+      "isDone": false
     },
     {
       "id": 4,
       "title": "Update Website Content",
-      "subTitle": "Due: August 25th",
+      "subtitle": "Due: August 25th",
       "description": "Review and update the content on the company website to reflect recent changes and improvements.",
-      "image": "https://digitalmarketology.com/wp-content/uploads/2018/09/Update-Your-Website.jpg",
+      "image": "website_update.jpg",
       "isDone": false
     },
     {
       "id": 5,
       "title": "Prepare Financial Report",
-      "subTitle": "Due: August 22nd",
+      "subtitle": "Due: August 22nd",
       "description": "Gather and organize financial data to prepare the quarterly financial report for stakeholders.",
-      "image": "https://www.investopedia.com/thmb/k8hjOmf9C0GydKXkIV9d2oByuoU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/financialstatements-final-d1268249b5284b3989c979ee82f2869e.png",
+      "image": "financial_report.jpg",
       "isDone": true
     }
   ]
