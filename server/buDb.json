@@ -1,0 +1,44 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Complete Project Proposal",
+      "subtitle": "Due: August 20th",
+      "description": "Write and finalize the project proposal for the upcoming client presentation.",
+      "image": "project_proposal.jpg",
+      "isDone": false
+    },
+    {
+      "id": 2,
+      "title": "Meeting with Team",
+      "subtitle": "Scheduled: August 18th, 2:00 PM",
+      "description": "Conduct a meeting with the project team to discuss the current status and upcoming tasks.",
+      "image": "meeting.jpg",
+      "isDone": true
+    },
+    {
+      "id": 3,
+      "title": "Research Market Trends",
+      "subtitle": "Ongoing",
+      "description": "Conduct research on the latest market trends and competitor activities in the industry.",
+      "image": "research.jpg",
+      "isDone": false
+    },
+    {
+      "id": 4,
+      "title": "Update Website Content",
+      "subtitle": "Due: August 25th",
+      "description": "Review and update the content on the company website to reflect recent changes and improvements.",
+      "image": "website_update.jpg",
+      "isDone": false
+    },
+    {
+      "id": 5,
+      "title": "Prepare Financial Report",
+      "subtitle": "Due: August 22nd",
+      "description": "Gather and organize financial data to prepare the quarterly financial report for stakeholders.",
+      "image": "financial_report.jpg",
+      "isDone": true
+    }
+  ]
+}
